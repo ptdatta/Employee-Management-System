@@ -1,0 +1,11 @@
+D,D3,EE,Mumbai
+D,D1,CSE,Calcutta
+D,D2,IT,Delhi
+E,W1,Rahul,Worker,IT,10000
+E,W2,Manoj,Worker,IT,10000
+E,W4,Raone,Worker,CSE,5000
+E,L1,Shiv,Leader,IT,20000
+E,L2,Rohan,Leader,CSE,5000
+E,W3,Rahul,Leader,CSE,5000
+P,P1,AI,CSE,L1
+P,P2,ML,IT,L1
